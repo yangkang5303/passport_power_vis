@@ -6,9 +6,13 @@ example : Thailand passport
 
 
 0=visa_required
+
 1=visa_on_arrival
+
 2=visa_free
+
 3=eta
+
 4=mother country
 
 reference:
