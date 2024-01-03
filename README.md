@@ -18,3 +18,6 @@ example : Thailand passport
 ![image](https://github.com/yangkang5303/passport_power_vis/assets/13623325/e283d76d-ecf6-485e-a422-fa94292038ea)
 
 4=mother country
+
+reference:
+https://github.com/alsonpr/Passport-Index-Dataset
